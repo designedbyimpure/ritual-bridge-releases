@@ -6,6 +6,14 @@
         <description>ЯITUAL BЯIDGΞ updates</description>
         <language>en</language>
         <item>
+            <title>1.0</title>
+            <pubDate>Sun, 15 Nov 2026 09:14:59 -0500</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/designedbyimpure/ritual-bridge-releases/releases/download/bridge-v1.0-16/RitualBridge-1.0-16.dmg" length="41012151" type="application/octet-stream" sparkle:edSignature="/XAeoy9M43BEC2r9IqNuwidlDUjoR7zs8BHciP4dIwttPnDQVNoArU0EF/mpozW56Pa0b6jfwJcQt/W1guITDg=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Sat, 14 Nov 2026 19:24:07 -0500</pubDate>
             <sparkle:version>2</sparkle:version>
