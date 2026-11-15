@@ -13,13 +13,5 @@
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/designedbyimpure/ritual-bridge-releases/releases/download/bridge-v1.0.1-2/RitualBridge-1.0.1-2.dmg" length="41742648" type="application/octet-stream" sparkle:edSignature="JUstgAAbxI5e89V1ytp7/oKJBLJe955R90o+1/i4vSu1X5uYH0mSTteCErU0CUdOYQvDM4vUc5yKSQG4ggpiDw=="/>
         </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Sat, 14 Nov 2026 17:30:51 -0500</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/designedbyimpure/ritual-bridge-releases/releases/download/bridge-v1.0-1/RitualBridge-1.0-1.dmg" length="40926931" type="application/octet-stream" sparkle:edSignature="oGtPKYBLi+cYkQiPD9Bm/6G+BXsQCAEXzjp/pGKxsf9P21D2GjjMD8oaeF6mo6Kve6oybX4jB8hMexscXIOUDg=="/>
-        </item>
     </channel>
 </rss>
